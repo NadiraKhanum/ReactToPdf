@@ -1,2 +1,0 @@
-# ReactToPdf
-Created with CodeSandbox
